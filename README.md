@@ -243,15 +243,21 @@ cv2.VideoCapture(0)
 
 ### 拡大縮小
 
-![両手の距離変化による拡大縮小](<img width="720" height="556" alt="rotation_demo" src="https://github.com/user-attachments/assets/46ca40c8-8aa0-4ff9-89f3-1c59a9d43965" />)
-
+<img
+  src="https://github.com/user-attachments/assets/3b1a1cbb-98ce-4d75-8d4b-ddb8a7f96a50"
+  alt="両手の距離変化による拡大縮小"
+  width="720"
+>
 
 両手の距離を広げるとオブジェクトが拡大し、近づけると縮小します。
 
 ### 回転
 
-![手の動きによる回転](<img width="720" height="556" alt="scaling_demo" src="https://github.com/user-attachments/assets/3b1a1cbb-98ce-4d75-8d4b-ddb8a7f96a50" />)
-
+<img
+  src="https://github.com/user-attachments/assets/46ca40c8-8aa0-4ff9-89f3-1c59a9d43965"
+  alt="両手の位置関係による回転"
+  width="720"
+>
 
 両手の位置関係の変化を、Unity上の3Dオブジェクトの回転に反映します。
 
