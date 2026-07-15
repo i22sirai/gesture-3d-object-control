@@ -1,4 +1,4 @@
-<img width="720" height="556" alt="rotation_demo" src="https://github.com/user-attachments/assets/4698217e-225a-481d-bbd8-f4053bd563ef" />## 概要
+## 概要
 
 Webカメラで取得した手の動きを用いて、Unity上の3Dオブジェクトを操作するインターフェースを開発しています。
 
